@@ -24,7 +24,7 @@
     "eslint-config-prettier": "^8.9.0",
     "framer-motion": "^10.13.0",
     "lucide-react": "^0.263.1",
-    "next": "13.4.7",
+    "next": "13.4.13",
     "prettier": "3.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
