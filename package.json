@@ -16,7 +16,7 @@
     "@saas-ui/theme": "^2.3.4",
     "@tanstack/react-query": "^5.28.8",
     "@types/node": "20.11.30",
-    "@types/react": "18.2.70",
+    "@types/react": "18.2.73",
     "@types/react-dom": "18.2.22",
     "dayjs": "^1.11.10",
     "eslint": "8.57.0",
